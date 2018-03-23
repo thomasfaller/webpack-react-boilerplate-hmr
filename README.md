@@ -1,5 +1,5 @@
 # Webpack - React boilerplate with hot module reloading 
-![Webpack Logo](./webpack.svg | width=100)
+<img src="./webpack.svg" alt="Webpack Logo" width="100">
 
 ## Setup
 
