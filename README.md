@@ -1,5 +1,5 @@
 # Webpack - React boilerplate with hot module reloading 
-![Webpack Logo](./webpack.svg)
+![Webpack Logo](./webpack.svg=100px)
 
 ## Setup
 
@@ -13,7 +13,7 @@ npm init -y
 ```
 npm i webpack webpack-cli webpack-dev-server -D
 ```
-*Since Webpack 4, the Command Line Interface nust be installed alongside Webpack.*
+*Since Webpack 4, the Command Line Interface must be installed alongside Webpack.*
 
 ### Babel
 ```
